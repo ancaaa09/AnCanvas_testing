@@ -1,0 +1,10 @@
+.helpCard {
+padding: 10px 10px 0 0;
+}
+
+a:visited {
+  color: #b3d9ff;
+}
+a:hover, a:focus {
+  color:#b3d9ff;
+}
